@@ -11,8 +11,12 @@
 // console.log("addition of a+b = ", c);
 
 //multipication of two no 
- 
-let a = Number(prompt("enter a = "));
-let b = Number(prompt("enter b = "));
-let c = a * b;
-console.log("a*b = ", c);
+// let a = Number(prompt("enter a = "));
+// let b = Number(prompt("enter b = "));
+// let c = a * b;
+// console.log("a*b = ", c);
+
+//print 1 to 10 no
+for ( i=1; i<=10; i++){
+    console.log(i);
+}
