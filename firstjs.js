@@ -17,6 +17,11 @@
 // console.log("a*b = ", c);
 
 //print 1 to 10 no
-for ( i=1; i<=10; i++){
-    console.log(i);
-}
+// for ( i=1; i<=10; i++){
+//     console.log(i);
+// }
+
+// // printing vivekpalhal 7000000 times 
+// for (i=0; i<7000000; i++){
+//     console.log("vivekpalhal");
+// }
