@@ -42,10 +42,10 @@
 // }
 // console.log(s);
 
-// multipication of n no
-let n = Number(prompt("enter you no"));
-let s = 1;
-for (i=1; i<=n; i++){
-    s *= i;
-}
-console.log(s);
+// // multipication of n no
+// let n = Number(prompt("enter you no"));
+// let s = 1;
+// for (i=1; i<=n; i++){
+//     s *= i;
+// }
+// console.log(s);
