@@ -26,10 +26,18 @@
 //     console.log("vivekpalhal");
 // }
 
-// factorial of n no
-let n = Number(prompt("Enter your no"));
-let s=1;
-for (i=n; i>=1; i--){
-    s*=i;
+// // factorial of n no
+// let n = Number(prompt("Enter your no"));
+// let s=1;
+// for (i=n; i>=1; i--){
+//     s*=i;
+// }
+// console.log(s);
+
+//addtion of n no
+let n = Number(prompt("enter you no"));
+let s = 0;
+for (i=1; i<=n; i++){
+    s += i;
 }
 console.log(s);
