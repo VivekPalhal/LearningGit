@@ -25,3 +25,11 @@
 // for (i=0; i>1; i++){
 //     console.log("vivekpalhal");
 // }
+
+// factorial of n no
+let n = Number(prompt("Enter your no"));
+let s=1;
+for (i=n; i>=1; i--){
+    s*=i;
+}
+console.log(s);
