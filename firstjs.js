@@ -49,3 +49,9 @@
 //     s *= i;
 // }
 // console.log(s);
+
+// // your code goes here
+let hour = 5,
+let min = 60*hour;
+let sec = 60*min;
+console.log(min,sec);
