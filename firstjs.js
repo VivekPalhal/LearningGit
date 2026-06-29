@@ -57,9 +57,9 @@
 // console.log(min,sec);
 
 // voting system 
-let age = Number(prompt("enter your age: "));
-if (a>=18){
-    console.log("you can vote");
-} else  {
-    console.log("you cant vote");
-}
+// let age = Number(prompt("enter your age: "));
+// if (a>=18){
+//     console.log("you can vote");
+// } else  {
+//     console.log("you cant vote");
+// }
