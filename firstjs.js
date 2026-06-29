@@ -55,3 +55,5 @@
 //  min = 60*hour;
 //  sec = 60*min;
 // console.log(min,sec);
+
+// voting system 
