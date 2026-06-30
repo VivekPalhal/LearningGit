@@ -90,3 +90,10 @@
 //  }
 //   let N = parseInt(inputChar);
   
+//   // Write your code here
+//   let dgc = 0;
+//   while (N>0){
+//       dgc ++;
+//       N = Math.floor(N/10);
+//   }
+//   console.log(dgc);
