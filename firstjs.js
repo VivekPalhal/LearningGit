@@ -97,3 +97,4 @@
 //       N = Math.floor(N/10);
 //   }
 //   console.log(dgc);
+
